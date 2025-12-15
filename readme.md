@@ -329,7 +329,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [LangChain](https://langchain.com/) for the amazing RAG framework
 - [ChromaDB](https://trychroma.com/) for the vector database
 - [OpenAI](https://openai.com/) or [Ollama][GrokAPI]
-- Our professor for the project opportunity
+- Our Professor Dr. Sundeep Rangan for the project opportunity.
 
 ---
 
